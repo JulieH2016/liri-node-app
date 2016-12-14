@@ -12,7 +12,11 @@ https://github.com/JulieH2016/liri-node-app
 
 -----------------------------------------
 
-## Required Folders and Files (added content) created locally and committed to Github. Created a .gitignore file and had to back track to be sure the files already committed would be ignored which is the purpose of this file type.
+## Required Folders and Files (added content) created locally and committed to Github.
+
+## Created a .gitignore file and this readme file committed to Github.
+
+## Untracked the files listed in the .gitignore file using the git rm --cached FILENAME command to be sure the files already committed would be ignored and not copied which is the purpose of this file type. Committed these changes.
 
 ## Twitter account created with read and write permissions. Sent out multiple tweets and have received multiple retweets, likes and followers!
 
