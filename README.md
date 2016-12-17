@@ -20,4 +20,12 @@ https://github.com/JulieH2016/liri-node-app
 
 ## Twitter account created with read and write permissions. Sent out multiple tweets and have received multiple retweets, likes and followers!
 
-## Coding delayed due to issues (reported to Ricky C.) but will be completed by Friday.
+## Work to date submitted. Coding delayed due to issues (reported to Ricky C.).
+
+## npm set up for use in my node.js command prompt window.
+
+## New folder named package.json added to add in dependencies.
+
+## Researched Twitter, Spotify, Request and OMDB API documents.
+
+## Twitter API application completed, keys retrieved & copied into keys.js file. Updated local folder & github repository with changes to date.
